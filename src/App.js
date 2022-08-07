@@ -8,8 +8,10 @@ function App() {
   return (
     <>
      
-      <Header/>
+      <Header title="Santosh Todos"/>
       <Footer />
+
+
     </>
   );
 }
