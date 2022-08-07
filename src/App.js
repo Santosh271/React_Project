@@ -7,6 +7,7 @@ function App() {
   // root class main folder
   return (
     <>
+     
       <Header/>
       <Footer />
     </>
